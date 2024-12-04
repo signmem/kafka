@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/IBM/sarama"
+	"github.com/signmem/sarama"
 	"github.com/wvanbergen/kafka/consumergroup"
 	"github.com/wvanbergen/kazoo-go"
 )

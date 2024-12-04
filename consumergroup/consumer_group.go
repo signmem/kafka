@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/IBM/sarama"
+	"github.com/signmem/sarama"
 	"github.com/wvanbergen/kazoo-go"
 )
 

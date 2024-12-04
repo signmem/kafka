@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/IBM/sarama"
+	"github.com/signmem/sarama"
 )
 
 var (

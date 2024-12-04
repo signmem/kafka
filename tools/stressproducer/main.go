@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/IBM/sarama"
+	"github.com/signmem/sarama"
 )
 
 var (
